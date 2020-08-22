@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd230f97-27e8-4aad-974e-25638d94be7d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="96673d36-1ea8-41d2-a2fc-b7a6105c88c5" />
+  <component name="ProjectId" id="1eP1HKbQg2MyOSsONNUfuD3ueQo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Train/DIC-C2DH-HeLa" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.TrackByPickle">
+    <configuration name="TrackByPickle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TrackByPickle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="analysis (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analysis/analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Train" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Train/DIC-C2DH-HeLa/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="track" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Train/DIC-C2DH-HeLa" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Train/DIC-C2DH-HeLa/track.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TrackByPickle" />
+        <item itemvalue="Python.analysis (1)" />
+        <item itemvalue="Python.analysis" />
+        <item itemvalue="Python.track" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd230f97-27e8-4aad-974e-25638d94be7d" name="Default Changelist" comment="" />
+      <created>1594208324856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594208324856</updated>
+      <workItem from="1594208334385" duration="2274000" />
+      <workItem from="1594610916345" duration="3206000" />
+      <workItem from="1594808722410" duration="1110000" />
+      <workItem from="1594810605513" duration="2098000" />
+      <workItem from="1594814698972" duration="4117000" />
+      <workItem from="1594902920625" duration="3659000" />
+      <workItem from="1594945131694" duration="1568000" />
+      <workItem from="1595152328993" duration="13304000" />
+      <workItem from="1595217374473" duration="9110000" />
+      <workItem from="1595243485793" duration="868000" />
+      <workItem from="1595292298982" duration="568000" />
+      <workItem from="1595478682693" duration="9064000" />
+      <workItem from="1595560632783" duration="1724000" />
+      <workItem from="1595823517441" duration="11239000" />
+      <workItem from="1596077459444" duration="48000" />
+      <workItem from="1596077513200" duration="25000" />
+      <workItem from="1596077577298" duration="11299000" />
+      <workItem from="1596168575904" duration="1483000" />
+      <workItem from="1596279857962" duration="2273000" />
+      <workItem from="1596347660796" duration="464000" />
+      <workItem from="1596348947988" duration="2383000" />
+      <workItem from="1596354430476" duration="1442000" />
+      <workItem from="1596356457493" duration="11557000" />
+      <workItem from="1596454667144" duration="2640000" />
+      <workItem from="1596502213635" duration="265000" />
+      <workItem from="1596502616195" duration="1318000" />
+      <workItem from="1596681136622" duration="406000" />
+      <workItem from="1596714380694" duration="1791000" />
+      <workItem from="1596717209160" duration="685000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2262" height="322" key="GridCell.Tab.0.bottom" timestamp="1596517446875">
+      <screen x="0" y="23" width="2304" height="1218" />
+    </state>
+    <state width="949" height="343" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1595292868263" />
+    <state width="2262" height="322" key="GridCell.Tab.0.bottom/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@-2304.23.2304.1273" timestamp="1596363692642" />
+    <state width="2262" height="322" key="GridCell.Tab.0.bottom/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1596517446875" />
+    <state width="1110" height="323" key="GridCell.Tab.0.bottom/0.23.2304.1273/2304.-26.1080.1852/-2304.23.2304.1273@0.23.2304.1273" timestamp="1595488183989" />
+    <state width="1110" height="323" key="GridCell.Tab.0.bottom/0.23.2304.1273/2304.-26.1080.1897/-2304.23.2304.1218@0.23.2304.1273" timestamp="1596285985359" />
+    <state width="2262" height="322" key="GridCell.Tab.0.center" timestamp="1596517446874">
+      <screen x="0" y="23" width="2304" height="1218" />
+    </state>
+    <state width="949" height="343" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1595292868261" />
+    <state width="2262" height="322" key="GridCell.Tab.0.center/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@-2304.23.2304.1273" timestamp="1596363692640" />
+    <state width="2262" height="322" key="GridCell.Tab.0.center/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1596517446874" />
+    <state width="1110" height="323" key="GridCell.Tab.0.center/0.23.2304.1273/2304.-26.1080.1852/-2304.23.2304.1273@0.23.2304.1273" timestamp="1595488183988" />
+    <state width="1110" height="323" key="GridCell.Tab.0.center/0.23.2304.1273/2304.-26.1080.1897/-2304.23.2304.1218@0.23.2304.1273" timestamp="1596285985358" />
+    <state width="2262" height="322" key="GridCell.Tab.0.left" timestamp="1596517446873">
+      <screen x="0" y="23" width="2304" height="1218" />
+    </state>
+    <state width="949" height="343" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1595292868261" />
+    <state width="2262" height="322" key="GridCell.Tab.0.left/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@-2304.23.2304.1273" timestamp="1596363692640" />
+    <state width="2262" height="322" key="GridCell.Tab.0.left/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1596517446873" />
+    <state width="1110" height="323" key="GridCell.Tab.0.left/0.23.2304.1273/2304.-26.1080.1852/-2304.23.2304.1273@0.23.2304.1273" timestamp="1595488183988" />
+    <state width="1110" height="323" key="GridCell.Tab.0.left/0.23.2304.1273/2304.-26.1080.1897/-2304.23.2304.1218@0.23.2304.1273" timestamp="1596285985358" />
+    <state width="2262" height="322" key="GridCell.Tab.0.right" timestamp="1596517446875">
+      <screen x="0" y="23" width="2304" height="1218" />
+    </state>
+    <state width="949" height="343" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1595292868262" />
+    <state width="2262" height="322" key="GridCell.Tab.0.right/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@-2304.23.2304.1273" timestamp="1596363692641" />
+    <state width="2262" height="322" key="GridCell.Tab.0.right/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1596517446875" />
+    <state width="1110" height="323" key="GridCell.Tab.0.right/0.23.2304.1273/2304.-26.1080.1852/-2304.23.2304.1273@0.23.2304.1273" timestamp="1595488183989" />
+    <state width="1110" height="323" key="GridCell.Tab.0.right/0.23.2304.1273/2304.-26.1080.1897/-2304.23.2304.1218@0.23.2304.1273" timestamp="1596285985359" />
+    <state x="2304" y="-26" width="1080" height="1836" key="GridCell.Tab.1.bottom" timestamp="1596091767806">
+      <screen x="2304" y="-26" width="1080" height="1897" />
+    </state>
+    <state x="2304" y="53" width="1080" height="1202" key="GridCell.Tab.1.bottom/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1595227894792" />
+    <state x="2304" y="-26" width="1080" height="1836" key="GridCell.Tab.1.bottom/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1596091767806" />
+    <state x="2304" y="-26" width="1080" height="1836" key="GridCell.Tab.1.center" timestamp="1596091767803">
+      <screen x="2304" y="-26" width="1080" height="1897" />
+    </state>
+    <state x="2304" y="53" width="1080" height="1202" key="GridCell.Tab.1.center/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1595227894790" />
+    <state x="2304" y="-26" width="1080" height="1836" key="GridCell.Tab.1.center/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1596091767803" />
+    <state x="2304" y="-26" width="1080" height="1836" key="GridCell.Tab.1.left" timestamp="1596091767802">
+      <screen x="2304" y="-26" width="1080" height="1897" />
+    </state>
+    <state x="2304" y="53" width="1080" height="1202" key="GridCell.Tab.1.left/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1595227894788" />
+    <state x="2304" y="-26" width="1080" height="1836" key="GridCell.Tab.1.left/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1596091767802" />
+    <state x="2304" y="-26" width="1080" height="1836" key="GridCell.Tab.1.right" timestamp="1596091767805">
+      <screen x="2304" y="-26" width="1080" height="1897" />
+    </state>
+    <state x="2304" y="53" width="1080" height="1202" key="GridCell.Tab.1.right/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1595227894791" />
+    <state x="2304" y="-26" width="1080" height="1836" key="GridCell.Tab.1.right/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1596091767805" />
+    <state x="2304" y="-26" width="1080" height="1836" key="GridCell.Tab.2.bottom" timestamp="1596089557010">
+      <screen x="2304" y="-26" width="1080" height="1897" />
+    </state>
+    <state x="2304" y="113" width="1080" height="1202" key="GridCell.Tab.2.bottom/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1595222605442" />
+    <state x="2304" y="-26" width="1080" height="1836" key="GridCell.Tab.2.bottom/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1596089557010" />
+    <state x="2304" y="-26" width="1080" height="1836" key="GridCell.Tab.2.center" timestamp="1596089557008">
+      <screen x="2304" y="-26" width="1080" height="1897" />
+    </state>
+    <state x="2304" y="113" width="1080" height="1202" key="GridCell.Tab.2.center/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1595222605439" />
+    <state x="2304" y="-26" width="1080" height="1836" key="GridCell.Tab.2.center/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1596089557008" />
+    <state x="2304" y="-26" width="1080" height="1836" key="GridCell.Tab.2.left" timestamp="1596089557007">
+      <screen x="2304" y="-26" width="1080" height="1897" />
+    </state>
+    <state x="2304" y="113" width="1080" height="1202" key="GridCell.Tab.2.left/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1595222605438" />
+    <state x="2304" y="-26" width="1080" height="1836" key="GridCell.Tab.2.left/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1596089557007" />
+    <state x="2304" y="-26" width="1080" height="1836" key="GridCell.Tab.2.right" timestamp="1596089557009">
+      <screen x="2304" y="-26" width="1080" height="1897" />
+    </state>
+    <state x="2304" y="113" width="1080" height="1202" key="GridCell.Tab.2.right/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1595222605441" />
+    <state x="2304" y="-26" width="1080" height="1836" key="GridCell.Tab.2.right/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1596089557009" />
+    <state x="661" y="271" key="SettingsEditor" timestamp="1596077769197">
+      <screen x="0" y="23" width="2304" height="1218" />
+    </state>
+    <state x="661" y="271" key="SettingsEditor/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1594808852822" />
+    <state x="661" y="271" key="SettingsEditor/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1596077769197" />
+    <state width="1080" height="609" key="XDebugger.FullValuePopup" timestamp="1595225946003">
+      <screen x="0" y="23" width="2304" height="1218" />
+    </state>
+    <state width="1080" height="609" key="XDebugger.FullValuePopup/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1595225946003" />
+    <state x="2304" y="-26" width="1080" height="1897" key="dock-window-1" timestamp="1596368281436">
+      <screen x="2304" y="-26" width="1080" height="1897" />
+    </state>
+    <state x="2304" y="113" width="1080" height="1218" key="dock-window-1/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1595222211426" />
+    <state x="2304" y="-26" width="1080" height="1897" key="dock-window-1/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1596368281436" />
+    <state x="2304" y="-26" width="1080" height="1852" key="dock-window-2" timestamp="1596086455007">
+      <screen x="2304" y="-26" width="1080" height="1897" />
+    </state>
+    <state x="2304" y="469" width="1080" height="827" key="dock-window-2/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1595224263881" />
+    <state x="2304" y="-26" width="1080" height="1852" key="dock-window-2/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1596086455007" />
+    <state x="2304" y="-26" width="1080" height="1852" key="dock-window-2/0.23.2304.1273/2304.-26.1080.1852/-2304.23.2304.1273@0.23.2304.1273" timestamp="1595487953935" />
+    <state x="2304" y="-26" width="1080" height="1852" key="dock-window-3" timestamp="1596086722303">
+      <screen x="2304" y="-26" width="1080" height="1897" />
+    </state>
+    <state x="2304" y="98" width="1080" height="1218" key="dock-window-3/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1595226219538" />
+    <state x="2304" y="-26" width="1080" height="1852" key="dock-window-3/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1596086722303" />
+    <state x="2304" y="-26" width="1080" height="1852" key="dock-window-4" timestamp="1596087047737">
+      <screen x="2304" y="-26" width="1080" height="1897" />
+    </state>
+    <state x="2304" y="83" width="1080" height="1218" key="dock-window-4/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1595226219539" />
+    <state x="2304" y="-26" width="1080" height="1852" key="dock-window-4/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1596087047737" />
+    <state x="2304" y="-26" width="1080" height="1852" key="dock-window-5" timestamp="1596087642967">
+      <screen x="2304" y="-26" width="1080" height="1897" />
+    </state>
+    <state x="2304" y="68" width="1080" height="1218" key="dock-window-5/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1595226287510" />
+    <state x="2304" y="-26" width="1080" height="1852" key="dock-window-5/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1596087642967" />
+    <state x="2304" y="-26" width="1080" height="1852" key="dock-window-6" timestamp="1596087642968">
+      <screen x="2304" y="-26" width="1080" height="1897" />
+    </state>
+    <state x="2304" y="53" width="1080" height="1218" key="dock-window-6/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1595227275290" />
+    <state x="2304" y="-26" width="1080" height="1852" key="dock-window-6/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1596087642968" />
+    <state x="2304" y="-26" width="1080" height="1852" key="dock-window-7" timestamp="1596091606062">
+      <screen x="2304" y="-26" width="1080" height="1897" />
+    </state>
+    <state x="2304" y="-26" width="1080" height="1852" key="dock-window-7/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1596091606062" />
+    <state x="1320" y="219" width="816" height="825" key="find.popup" timestamp="1595481482700">
+      <screen x="0" y="23" width="2304" height="1218" />
+    </state>
+    <state x="1320" y="219" width="816" height="825" key="find.popup/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1594811981427" />
+    <state x="1320" y="219" width="816" height="825" key="find.popup/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1595481482700" />
+    <state x="1393" y="298" width="670" height="676" key="search.everywhere.popup" timestamp="1595826465987">
+      <screen x="0" y="23" width="2304" height="1218" />
+    </state>
+    <state x="1393" y="298" width="670" height="676" key="search.everywhere.popup/-1920.23.1920.1057/0.23.2304.1218/2304.23.1080.1897@0.23.2304.1218" timestamp="1595218619658" />
+    <state x="1393" y="298" width="670" height="676" key="search.everywhere.popup/0.23.2304.1218/2304.-26.1080.1897/-2304.23.2304.1273@0.23.2304.1218" timestamp="1595826465987" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project$track.coverage" NAME="track Coverage Results" MODIFIED="1595481737839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Train/DIC-C2DH-HeLa" />
+    <SUITE FILE_PATH="coverage/Project$meredith.coverage" NAME="meredith Coverage Results" MODIFIED="1594617480887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project$Train.coverage" NAME="Train Coverage Results" MODIFIED="1594850605890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Train/DIC-C2DH-HeLa" />
+    <SUITE FILE_PATH="coverage/Project$analysis__1_.coverage" NAME="analysis (1) Coverage Results" MODIFIED="1596372230190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis" />
+    <SUITE FILE_PATH="coverage/Project$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1596365992301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project$test.coverage" NAME="test Coverage Results" MODIFIED="1594904714881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Train" />
+    <SUITE FILE_PATH="coverage/Project$predict.coverage" NAME="predict Coverage Results" MODIFIED="1594861548323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Train/DIC-C2DH-HeLa" />
+    <SUITE FILE_PATH="coverage/Project$TrackByPickle.coverage" NAME="TrackByPickle Coverage Results" MODIFIED="1596503679265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project$Tools.coverage" NAME="Tools Coverage Results" MODIFIED="1594903559391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Train/DIC-C2DH-HeLa" />
+    <SUITE FILE_PATH="coverage/Project$Read_data.coverage" NAME="Read_data Coverage Results" MODIFIED="1594811973531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Train/DIC-C2DH-HeLa" />
+    <SUITE FILE_PATH="coverage/Project$unet_CellSegmentation.coverage" NAME="unet_CellSegmentation Coverage Results" MODIFIED="1594611125980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+  </component>
+</project>
